@@ -6,4 +6,4 @@
 *The tectnology which is used to create the fixtures on the project is (HTML,PHP,CSS)
 *Fixtures are really clear to the user
 
-# After candidate insert data it must saved on the database 
+# when the candidate click submit,the data must be writen to a database
